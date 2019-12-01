@@ -2,6 +2,15 @@
 EtherCATについて語る Advent Calendar 2019   [ 12/01 ]
 =============================================================
 
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+
+EtherCATについて語る Advent Calendar 2019
+
+https://adventar.org/calendars/4097
+
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+
+
 
 12月１日　記述
 -------------------------------------------------------------
@@ -56,3 +65,4 @@ https://www.ethercat.org/download/documents/ETG_Brochure_JP.pdf
 Twitter:@nonnoise
 
 北神雄太
+
