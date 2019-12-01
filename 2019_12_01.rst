@@ -19,20 +19,27 @@ EtherCATについて語る Advent Calendar 2019   [ 12/01 ]
 EtherCATって何？
 -------------------------------------------------------------
 
-EtherCATはEthernet for Control Automation Technologyの略である。
-ドイツ企業、ベッコフオートメーション（Beckhoff Automation）によって開発されたイーサネットに基づくフィールドバス（英語版）システムである。
-EtherCATの開発目標は、同期のために実時間(real time)処理が可能な低い通信ジッターで、
-短いデータ更新時間（cycle time）を必要とする自動化機器に、
-小さなデータをイーサネットを使い低いハードウェア費用で適用することである。
+    EtherCATはEthernet for Control Automation Technologyの略である。
+
+    ドイツ企業、ベッコフオートメーション（Beckhoff Automation）によって開発されたイーサネットに基づくフィールドバス（英語版）システムである。
+
+    EtherCATの開発目標は、同期のために実時間(real time)処理が可能な低い通信ジッターで、
+
+    短いデータ更新時間（cycle time）を必要とする自動化機器に、
+
+    小さなデータをイーサネットを使い低いハードウェア費用で適用することである。
 
 出典: フリー百科事典『ウィキペディア（Wikipedia）』
 https://ja.wikipedia.org/wiki/EtherCAT
 
+|
 
-※ずっとCATを猫と言ってましたが、あれは冗談です。「Control Automation Technology」（直訳：制御の自動化技術）の略です。
+|
 
+ずっとCATを猫と言ってましたが、あれは冗談です。「Control Automation Technology」（直訳：制御の自動化技術）の略です。
 
 開発元は　ドイツ企業のベッコフオートメーション（Beckhoff Automation）で、ドイツや世界で有名な産業用制御機器の大手メーカーです。
+
 EtherCAT自体は、ベッコフオートメーションから離れ、EtherCAT Technology Groupで管理されるようになりました。
 
 基本的にはEtherCATのメンバー（無料)になり、そこで規格の情報を得て利用する事が主な流れですが、半導体メーカーや製品の情報からも利用方法を読み解く事ができます。
